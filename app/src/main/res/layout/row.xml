@@ -15,6 +15,8 @@
         android:text="mappa"
         android:layout_alignParentRight="true"
         android:id="@+id/mappa"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
         />
 
 </RelativeLayout>
